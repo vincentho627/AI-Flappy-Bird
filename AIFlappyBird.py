@@ -9,7 +9,7 @@ pygame.init()
 screen = pygame.display.set_mode((576, 1024))
 pygame.display.set_caption("AI Flappy Bird")
 clock = pygame.time.Clock()
-game_font = pygame.font.Font('04B_19.TTF', 40)
+game_font = pygame.font.Font('Font.TTF', 40)
 game_over = False
 gravity = 0.7
 
