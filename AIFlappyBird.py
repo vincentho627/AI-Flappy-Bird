@@ -25,7 +25,6 @@ bird_down_flap = pygame.transform.scale2x(pygame.image.load('assets/yellowbird-d
 bird_mid_flap = pygame.transform.scale2x(pygame.image.load('assets/yellowbird-midflap.png').convert_alpha())
 bird_up_flap = pygame.transform.scale2x(pygame.image.load('assets/yellowbird-upflap.png').convert_alpha())
 bird_frames = [bird_up_flap, bird_mid_flap, bird_down_flap]
-# bird_list = []
 BIRD_FRAME = pygame.USEREVENT + 1
 
 # Pipes initialisations
