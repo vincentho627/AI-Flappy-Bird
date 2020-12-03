@@ -52,6 +52,7 @@ Results
 -------
 After training the AI, it successfully plays Flappy Bird without dying, here is an example of how far the AI got. You can also look at the generations used in the
 Results.txt file
+
 ![](images/AI-result.png)
 
 
