@@ -3,7 +3,7 @@ AI learns to play Flappy Bird
 
 Introduction
 ------------
-Flappy Bird was one of the most frustrating and addicting game ever created, the feeling when the bird dies has always been annoying to deal with. So I thought 
+Flappy Bird is one of the most frustrating and addicting game ever created, the feeling when the bird dies has always been annoying to deal with. So I thought 
 why not created an AI to play the game for me and never die. In this project I used one of the most successful reinforcement learning algorithms called 
 NeuroEvolution of Augmenting Topologies aka NEAT to train an AI to play the game flawlessly.
 
@@ -52,6 +52,7 @@ Results
 -------
 After training the AI, it successfully plays Flappy Bird without dying, here is an example of how far the AI got. You can also look at the generations used in the
 Results.txt file
+
 ![](images/AI-result.png)
 
 
