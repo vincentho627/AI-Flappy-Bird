@@ -130,7 +130,7 @@ class Bird:
 
     def get_reward(self):
         if self.is_alive():
-            return 0.1 + self.get_score()
+            return 1 + self.get_score()
         else:
             return -50
 
